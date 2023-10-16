@@ -1,8 +1,9 @@
 # [Auto-WCEBleedGen-Challenge](https://misahub.in/CVIP/challenge.html)
 # Team Members: 
-1) Kasam Rohith Reddy
-2) Akash Kalasagond 
+1) Kasam Rohith Reddy (https://github.com/kasamrohith02)
+2) Akash Kalasagond (https://github.com/Akashkalasagond)
 3) Sunke Durgaprasad (https://github.com/Durgaprasad9011)
+   <br>
 <b>1. Classification Folder contains:</b>
   -  Model folder
      -  "Train and Test.py" contains the code for Train , validation and Testing for the datasets provided.

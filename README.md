@@ -3,6 +3,7 @@
 1) Kasam Rohith Reddy (https://github.com/kasamrohith02)
 2) Akash Kalasagond (https://github.com/Akashkalasagond)
 3) Sunke Durgaprasad (https://github.com/Durgaprasad9011)
+4) Raghul S (
    <br>
    <br>
 <b>1. Classification Folder contains:</b>
